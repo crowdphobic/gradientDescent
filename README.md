@@ -1,3 +1,3 @@
 # gradientDescent
 
-Basical implementation of gradient descent like how it works under the hood.
+Basical implementation of gradient descent, how it works under the hood.
